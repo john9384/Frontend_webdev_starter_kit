@@ -1,0 +1,17 @@
+@import "./abstracts//functions";
+@import "./abstracts/mixins";
+@import "./abstracts/variables";
+
+@import "./base/animation";
+@import "./base/base";
+@import "./base/typo";
+
+@import "./components/btns";
+
+@import "./layouts/header";
+@import "./layouts/container";
+@import "./layouts/footer";
+
+@import "./pages/home";
+
+@import "./utils/margins";
